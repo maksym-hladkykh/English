@@ -15,11 +15,11 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
     <h1> My note english </h1>
 <%--    Текущая дата: <%= new java.util.Date()%> --%>
 <br>
-<h3>
+<h5>
     Basic knowledge - Базовые знания<br>
     Good troubleshooting skills - Хорошие навыки устранения неполадок<br>
     expectation is that you can - ожидается, что вы сможете<br>
-    
-</h3>
+    Familiar with some ITIL concepts - Знаком с некоторыми концепциями ITIL<br>
+</h5>
 </body>
 </html>
