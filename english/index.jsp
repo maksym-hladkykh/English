@@ -9,15 +9,17 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title> Maksym Hladkykh tomcat </title>
+        <title> MaxNix </title>
     </head>
     <body>
     <h1> My note english </h1>
-    Текущая дата: <%= new java.util.Date()%>
-    <br>
-        Basic knowledge - Базовые знания
-        <br>
-        Good troubleshooting skills - Хорошие навыки устранения неполадок
-        <br>
+<%--    Текущая дата: <%= new java.util.Date()%> --%>
+<br>
+<h3>
+    Basic knowledge - Базовые знания<br>
+    Good troubleshooting skills - Хорошие навыки устранения неполадок<br>
+    expectation is that you can - ожидается, что вы сможете<br>
+    
+</h3>
 </body>
 </html>
