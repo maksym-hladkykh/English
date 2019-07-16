@@ -1,5 +1,6 @@
 uptime
 cat /etc/passwd
-
-echo "Uptime Tomcat"
+echo
+echo
+echo "================= Uptime Tomcat =================================="
 ssh root@tomcat1 'uptime'
