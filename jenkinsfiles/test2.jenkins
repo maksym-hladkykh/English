@@ -22,10 +22,5 @@ pipeline {
                 sh 'ssh root@tomcat1 \'sudo uptime\''
             }
         }
-        stage("3 step") {
-            steps {
-                sh 'ssh root@tomcat1 \'sudo ifconfig\''
-            }
-        }
     }
 }
