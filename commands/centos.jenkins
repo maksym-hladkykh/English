@@ -1,1 +1,1 @@
-sh 'ssh root@tomcat1 \'sudo ifconfig\''
+ifconfig
