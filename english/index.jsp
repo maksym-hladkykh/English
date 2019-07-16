@@ -21,7 +21,7 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
     expectation is that you can - ожидается, что вы сможете<br>
     Familiar with some ITIL concepts - Знаком с некоторыми концепциями ITIL<br>
 </h5>
-   <table border="1">
+   <table>
    <tr>
     <td>Good troubleshooting skills</td>
     <td>Хорошие навыки устранения неполадок</td>
