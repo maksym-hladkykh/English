@@ -13,7 +13,7 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
     </head>
     <body>
     <h1> My note english </h1>
-<%--    Текущая дата: <%= new java.util.Date()%> --%>
+Текущая дата: <%= new java.util.Date()%>
 <br>
 <h5>
     Basic knowledge - Базовые знания<br>
@@ -21,5 +21,15 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
     expectation is that you can - ожидается, что вы сможете<br>
     Familiar with some ITIL concepts - Знаком с некоторыми концепциями ITIL<br>
 </h5>
+   <table border="1">
+   <tr>
+    <td>Good troubleshooting skills</td>
+    <td>Хорошие навыки устранения неполадок</td>
+   </tr>
+   <tr>
+    <td>Basic knowledge</td>
+    <td>Базовые знания</td>
+  </tr>
+ </table>
 </body>
 </html>
