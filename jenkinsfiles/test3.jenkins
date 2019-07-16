@@ -11,11 +11,13 @@ pipeline {
         timestamps()
     }
     stages {
-      steps {
+        stage("First step") {
+            steps {
                 echo " ============== using linux commands =================="
                 dir ('commands') {
                 	sh 'centos.jenkins'
                 }
             }
+        }
     }
 }
