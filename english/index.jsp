@@ -15,6 +15,7 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
     <h1> My note english </h1>
     Текущая дата: <%= new java.util.Date()%>
     <br>
-        <h2> 7777777777777 </h2>
+        Basic knowledge - Базовые знания
+        Good troubleshooting skills - Хорошие навыки устранения неполадок
 </body>
 </html>
