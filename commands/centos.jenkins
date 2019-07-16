@@ -2,6 +2,6 @@ echo "================= Uptime Tomcat =================================="
 ssh root@tomcat1 'uptime'
 echo
 echo
-echo
+echo "================= Uptime Jenkins ================================="
 echo "Uptime Jenkins srv"
 uptime
