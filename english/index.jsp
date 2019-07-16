@@ -16,6 +16,8 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
     Текущая дата: <%= new java.util.Date()%>
     <br>
         Basic knowledge - Базовые знания
+        <br>
         Good troubleshooting skills - Хорошие навыки устранения неполадок
+        <br>
 </body>
 </html>
