@@ -12,11 +12,10 @@ pipeline {
         timestamps()
     }
     stages {
-        stage("First step") {
+        stage("Add new words") {
             steps {
-                echo " ============== add new words =================="
                 dir ('english') {
-                	sh 'sh english.txt'
+                	sh 'scp index.jsp root@tomcat1:/opt/tomcat/webapps/ROOT/index.jsp'
                 }
             }
         }
