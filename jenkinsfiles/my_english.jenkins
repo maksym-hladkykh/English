@@ -14,9 +14,9 @@ pipeline {
     stages {
         stage("First step") {
             steps {
-                echo " ============== using linux commands =================="
-                dir ('commands') {
-                	sh 'sh centos.jenkins'
+                echo " ============== add new words =================="
+                dir ('english') {
+                	sh 'sh english.txt'
                 }
             }
         }
