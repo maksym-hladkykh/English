@@ -6,7 +6,6 @@ pipeline {
     agent { 
         label 'master'
         }
-    triggers { pollSCM('* * * * *') }
     options {
         buildDiscarder(logRotator(numToKeepStr: '10', artifactNumToKeepStr: '10'))
         timestamps()
@@ -21,11 +20,6 @@ pipeline {
             steps {
                 sh 'ssh root@tomcat1 \'sudo uptime\''
             }
-        stage("3 step") {
-            steps {
-                sh 'ssh root@tomcat1 \'sudo ifconfig\''
-            }
         }
     }
-}
 }
