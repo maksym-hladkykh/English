@@ -13,9 +13,8 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
     </head>
     <body>
     <h1>My english</h1>
-Текущая дата: <%= new java.util.Date()%>
-<br><br><br>
-<!---------------------------------------------------------------------------------------------->
+	Текущая дата: <%= new java.util.Date()%>
+	<br><br><br>
         <h3>Present Simple Настоящее простое</h3>
         <table {border: 1px solid grey;}>
             <colgroup>
@@ -23,20 +22,31 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
                 <col style="background-color:LightCyan">
             </colgroup>
 			<caption><h3>Approval утверждение</h3></caption>
-            <tr><th>I/we/you/they + Verb</td><td>Я/мы/вы/они + Глагол</th></tr>
+            <tr><th>I/we/you/they(subject) + Verb</td><td>Я/мы/вы/они + Глагол</th></tr>
 			<tr><td>I work here</td><td>я здесь работаю</td></tr>
 			<tr><td>I understand you</td><td>Я вас понимаю</td></tr>
 			<tr><td>I know it very well</td><td>Я это очень хорошо знаю</td></tr>
 			<tr><td>I live in Ukraine</td><td>Я живу в украине</td></tr>
 			<tr><td>I speak English</td><td>Я говорю по-английски</td></tr>
-			<tr><td>I work here</td><td>я здесь работаю</td></tr>
-			<tr><td>I work here</td><td>я здесь работаю</td></tr>
-			<tr><td>I work here</td><td>я здесь работаю</td></tr>
-			<tr><td>I work here</td><td>я здесь работаю</td></tr>
-			<tr><td>I work here</td><td>я здесь работаю</td></tr>
-			<tr><td>I work here</td><td>я здесь работаю</td></tr>
-			<tr><td>I work here</td><td>я здесь работаю</td></tr>
-			<tr><td>I work here</td><td>я здесь работаю</td></tr>
+			<tr><td>I go to work</td><td>я иду на работу</td></tr>
+			<tr><td>----------------------------------</td><td>----------------------------------</td></tr>
+			<tr><td>a  - </td><td>перед согласным звуком</td></tr>
+			<tr><td>an - </td><td>перед гласным звуком</td></tr>
+			<tr><td>I have a brother</td><td>у меня есть брат</td></tr>
+			<tr><td>I have an idea</td><td>у меня есть идея</td></tr>
+			<tr><td>I have a car</td><td>у меня есть идея</td></tr>
+			<tr><td>I think so</td><td>я думаю так</td></tr>
+			<tr><td>I remember it very well</td><td>Я это очень хорошо помню</td></tr>
+			<tr><td>we understand you</td><td>мы понимаем вас</td></tr>
+			<tr><td>we speack English</td><td>текст</td></tr>
+			<tr><td>you know it</td><td>текст</td></tr>
+			<tr><td>they live in this country</td><td>текст</td></tr>
+			<tr><td>we go to work</td><td>текст</td></tr>
+			<tr><td>we live in this city</td><td>текст</td></tr>
+			<tr><td>text</td><td>текст</td></tr>
+			<tr><td>text</td><td>текст</td></tr>
+			<tr><td>text</td><td>текст</td></tr>
+			<tr><td>text</td><td>текст</td></tr>
 		</table>
 	</body>
 </html>
