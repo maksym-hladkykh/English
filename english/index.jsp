@@ -9,30 +9,34 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title> MaxNix </title>
+        <title>MaxNix</title>
     </head>
     <body>
-    <h1> My note english </h1>
+    <h1>My english</h1>
 Текущая дата: <%= new java.util.Date()%>
-<br>
-   <table {border: 1px solid grey;}>
-   <colgroup>
-    <col style="background:Khaki"><!-- С помощью этой конструкции задаем цвет фона для первых двух столбцов таблицы-->
-    <col style="background-color:LightCyan"><!-- Задаем цвет фона для следующего (одного) столбца таблицы-->
-  </colgroup>
-       <tr><td>Good troubleshooting skills</td><td>Хорошие навыки устранения неполадок</td></tr>
-       <tr><td>Basic knowledge</td><td>Базовые знания</td></tr>
-       <tr><td>expectation is that you can</td><td>ожидается, что вы сможете</td></tr>
-       <tr><td>Familiar with some ITIL concepts</td><td>Знаком с некоторыми концепциями ITIL</td></tr>
-       <tr><td>certain types of traffic</td><td>определенные виды трафика</td></tr>
-       <tr><td>If you will have any questions</td><td>Если у вас возникнут вопросы</td></tr>
-       <tr><td>Strongly recommended actions</td><td>Настоятельно рекомендуемые действия</td></tr>
-       <tr><td>requirements specification</td><td>Технические требования</td></tr>
-       <tr><td>work responsbilities</td><td>рабочие обязанности</td></tr>
-       <tr><td>text</td><td>текст</td></tr>
-       <tr><td>text</td><td>текст</td></tr>
-       <tr><td>text</td><td>текст</td></tr>
-       <tr><td>text</td><td>текст</td></tr>
- </table>
-</body>
+<br><br><br>
+<!---------------------------------------------------------------------------------------------->
+        <h3>Present Simple Настоящее простое</h3>
+        <table {border: 1px solid grey;}>
+            <colgroup>
+                <col style="background:Khaki">
+                <col style="background-color:LightCyan">
+            </colgroup>
+			<caption><h3>Approval утверждение</h3></caption>
+            <tr><th>I/we/you/they + Verb</td><td>Я/мы/вы/они + Глагол</th></tr>
+			<tr><td>I work here</td><td>я здесь работаю</td></tr>
+			<tr><td>I understand you</td><td>Я вас понимаю</td></tr>
+			<tr><td>I know it very well</td><td>Я это очень хорошо знаю</td></tr>
+			<tr><td>I live in Ukraine</td><td>Я живу в украине</td></tr>
+			<tr><td>I speak English</td><td>Я говорю по-английски</td></tr>
+			<tr><td>I work here</td><td>я здесь работаю</td></tr>
+			<tr><td>I work here</td><td>я здесь работаю</td></tr>
+			<tr><td>I work here</td><td>я здесь работаю</td></tr>
+			<tr><td>I work here</td><td>я здесь работаю</td></tr>
+			<tr><td>I work here</td><td>я здесь работаю</td></tr>
+			<tr><td>I work here</td><td>я здесь работаю</td></tr>
+			<tr><td>I work here</td><td>я здесь работаю</td></tr>
+			<tr><td>I work here</td><td>я здесь работаю</td></tr>
+		</table>
+	</body>
 </html>
