@@ -25,23 +25,7 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
        <tr><td>expectation is that you can</td><td>ожидается, что вы сможете</td></tr>
        <tr><td>Familiar with some ITIL concepts</td><td>Знаком с некоторыми концепциями ITIL</td></tr>
        <tr><td>certain types of traffic</td><td>определенные виды трафика</td></tr>
-       <tr><td>text</td><td>текст</td></tr>
-       <tr><td>text</td><td>текст</td></tr>
-       <tr><td>text</td><td>текст</td></tr>
-       <tr><td>text</td><td>текст</td></tr>
-       <tr><td>text</td><td>текст</td></tr>
-       <tr><td>text</td><td>текст</td></tr>
-       <tr><td>text</td><td>текст</td></tr>
-       <tr><td>text</td><td>текст</td></tr>
-       <tr><td>text</td><td>текст</td></tr>
-       <tr><td>text</td><td>текст</td></tr>
-       <tr><td>text</td><td>текст</td></tr>
-       <tr><td>text</td><td>текст</td></tr>
-       <tr><td>text</td><td>текст</td></tr>
-       <tr><td>text</td><td>текст</td></tr>
-       <tr><td>text</td><td>текст</td></tr>
-       <tr><td>text</td><td>текст</td></tr>
-       <tr><td>text</td><td>текст</td></tr>
+       <tr><td>If you will have any questions</td><td>Если у вас возникнут вопросы</td></tr>
        <tr><td>text</td><td>текст</td></tr>
  </table>
 </body>
