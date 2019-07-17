@@ -27,6 +27,10 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
        <tr><td>certain types of traffic</td><td>определенные виды трафика</td></tr>
        <tr><td>If you will have any questions</td><td>Если у вас возникнут вопросы</td></tr>
        <tr><td>Strongly recommended actions</td><td>Настоятельно рекомендуемые действия</td></tr>
+       <tr><td>requirements specification</td><td>Технические требования</td></tr>
+       <tr><td>work responsbilities</td><td>рабочие обязанности</td></tr>
+       <tr><td>text</td><td>текст</td></tr>
+       <tr><td>text</td><td>текст</td></tr>
        <tr><td>text</td><td>текст</td></tr>
        <tr><td>text</td><td>текст</td></tr>
  </table>
