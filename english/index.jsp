@@ -16,11 +16,11 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
 	<br>
         <!--<h3>Present Simple Настоящее простое</h3>-->
         <table border="1" >
-		<tbody>
+		<tbody width="50%">
             <colgroup>
                 <col style="background:Khaki"><col style="background-color:LightCyan"><col style="background:Khaki"><col style="background-color:LightCyan">
             </colgroup>
-			<th colspan="4" col style="background-color: #ccc;" width="15%">Present Simple Настоящее простое/Approval утверждение</th>
+			<th colspan="4" col style="background-color: #ccc;">Present Simple Настоящее простое/Approval утверждение</th>
             <tr>
 				<th>I/we/you/they(subject) + Verb</th>
 				<th>Я/мы/вы/они + Глагол</th>
