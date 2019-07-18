@@ -12,7 +12,8 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
         <title>MaxNix</title>
     </head>
     <body>
-    <h1>My english <%= new java.util.Date()%></h1><!--Текущая дата-->
+    <h1 col style="LightCyan">My english</h1><!--Текущая дата-->
+	<%= new java.util.Date()%>
 	<br>
         <!--<h3>Present Simple Настоящее простое</h3>-->
         <table border="1" >
@@ -34,6 +35,7 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
 				<td>Он живет сдесь</td>
 			</tr>
 		</tbody>
+		<h5>Markers: usually, often, seldom, sometimes, always, every, etc.</h5>
 		</table>
 	</body>
 </html>
