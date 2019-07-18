@@ -17,7 +17,7 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
 	<h1></h1>
 		<!--Present Simple Настоящее простое/Approval утверждение-->
         <table border="1" >
-		<tbody width="50%">
+		<tbody width="80%">
             <colgroup><col style="background:Khaki"><col style="background-color:LightCyan"><col style="background:Khaki"><col style="background-color:LightCyan"></colgroup>
 			<th colspan="4" col style="background-color: #ccc;">Present Simple Настоящее простое/Approval утверждение</th>
             <tr>
