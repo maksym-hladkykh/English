@@ -67,7 +67,7 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
 				<td>do I work here?</td>
 				<td>я работаю сдесь?</td>
 				<td>does he live there?</td>
-				<td>Он не живет сдесь?</td>
+				<td>Он живет сдесь?</td>
 			</tr>
 		</tbody>
 		</table>
