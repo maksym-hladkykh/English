@@ -9,10 +9,10 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>MaxNix</title>
+        <title>english</title>
     </head>
     <body>
-	<h1>My english</h1>
+	<h1 color="blue" face="Arial">I study English</h1>
 	<%= new java.util.Date()%><!--Текущая дата-->
 
 		<h1> </h1><!--Present Simple Настоящее простое/Approval утверждение-->
