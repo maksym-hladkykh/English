@@ -74,7 +74,8 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
 			</tr>
 		</tbody>
 		</table>
-		<p><font size="5" color="red" face="Arial">M</font>arkers: usually, often, seldom, sometimes, always, every, etc.</p>
+		<p><font size="5" color="red" face="Arial">Markers of Present Simple</font>: usually, often, seldom, sometimes, always, every, etc.</p>
+		<p><font size="5" color="red" face="Arial">Маркеры Настоящего Простого</font>: обычно, часто, редко, иногда, всегда, каждый и т.д.</p>
 <p><!--Словосочетания-->
 I understand you<br>
 I know it very well<br>
