@@ -12,7 +12,7 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
         <title>english</title>
     </head>
     <body>
-	<h1 color="blue" face="Arial">I study English</h1>
+	<p><font size="5" color="blue" face="Arial">I study English</p>
 	<%= new java.util.Date()%><!--Текущая дата-->
 
 		<h1> </h1><!--Present Simple Настоящее простое/Approval утверждение-->
