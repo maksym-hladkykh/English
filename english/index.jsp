@@ -16,13 +16,10 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
 	Текущая дата: <%= new java.util.Date()%>
 	<br>
         <h3>Present Simple Настоящее простое</h3>
-        <table {border: 1px solid grey;}>
+        <table border="1" width="90%">
 		<tbody>
             <colgroup>
-                <col style="background:Khaki">
-                <col style="background-color:LightCyan">
-				<col style="background:Khaki">
-                <col style="background-color:LightCyan">
+                <col style="background:Khaki"><col style="background-color:LightCyan"><col style="background:Khaki"><col style="background-color:LightCyan">
             </colgroup>
 			<th colspan="4">Approval утверждение</th>
 			<!--<caption><h5>Approval утверждение</h5></caption>-->
