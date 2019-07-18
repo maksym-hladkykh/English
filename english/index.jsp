@@ -75,35 +75,28 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
 		</tbody>
 		</table>
 		Markers: usually, often, seldom, sometimes, always, every, etc.
-		
+<br>
+I understand you
+I know it very well
+I live in Ukraine
+I speak English
+I go to work
+a  - перед согласным звуком
+an - перед гласным звуком
+I have a brother
+I have an idea
+I have a car
+I think so
+I remember it very well
+we understand you
+we speack English
+you know it
+they live in this country
+we go to work
+
+
 	</body>
 </html>
 
 
-
-<!--
-			<tr><td>I understand you</td><td>Я вас понимаю</td></tr>
-			<tr><td>I know it very well</td><td>Я это очень хорошо знаю</td></tr>
-			<tr><td>I live in Ukraine</td><td>Я живу в украине</td></tr>
-			<tr><td>I speak English</td><td>Я говорю по-английски</td></tr>
-			<tr><td>I go to work</td><td>я иду на работу</td></tr>
-			<tr><td></td><td></td></tr>
-			<tr><td>a  - </td><td>перед согласным звуком</td></tr>
-			<tr><td>an - </td><td>перед гласным звуком</td></tr>
-			<tr><td></td><td></td></tr>
-			<tr><td>I have a brother</td><td>у меня есть брат</td></tr>
-			<tr><td>I have an idea</td><td>у меня есть идея</td></tr>
-			<tr><td>I have a car</td><td>у меня есть идея</td></tr>
-			<tr><td>I think so</td><td>я думаю так</td></tr>
-			<tr><td>I remember it very well</td><td>Я это очень хорошо помню</td></tr>
-			<tr><td>we understand you</td><td>мы понимаем вас</td></tr>
-			<tr><td>we speack English</td><td>текст</td></tr>
-			<tr><td>you know it</td><td>текст</td></tr>
-			<tr><td>they live in this country</td><td>текст</td></tr>
-			<tr><td>we go to work</td><td>текст</td></tr>
-			<tr><td>we live in this city</td><td>текст</td></tr>
-			<tr><td>text</td><td>текст</td></tr>
-			<tr><td>text</td><td>текст</td></tr>
-			<tr><td>text</td><td>текст</td></tr>
-			<tr><td>text</td><td>текст</td></tr>
 
