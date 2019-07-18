@@ -14,8 +14,7 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
     <body>
 	<p><font size="5" color="blue" face="Arial">I study English</font></p>
 	<%= new java.util.Date()%><!--Текущая дата-->
-		<h1> 
-		</h1>
+		<br>
         <table border="1" width="80%"><!--Present Simple Настоящее простое/Approval утверждение-->
 		<tbody>
             <colgroup><col style="background:Khaki"><col style="background-color:LightCyan"><col style="background:Khaki"><col style="background-color:LightCyan"></colgroup>
@@ -34,8 +33,7 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
 			</tr>
 		</tbody>
 		</table>
-		<h1> 
-		</h1>
+		<br>
 		<table border="1" width="80%"><!--Present Simple Настоящее простое/Negation отрицание-->
 		<tbody>
             <colgroup><col style="background:Khaki"><col style="background-color:LightCyan"><col style="background:Khaki"><col style="background-color:LightCyan"></colgroup>
@@ -54,8 +52,7 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
 			</tr>
 		</tbody>
 		</table>	
-		<h1> 
-		</h1>
+		<br>
 		<table border="1" width="80%"><!--Present Simple Настоящее простое/Question form вопросительная форма-->
 		<tbody>
             <colgroup><col style="background:Khaki"><col style="background-color:LightCyan"><col style="background:Khaki"><col style="background-color:LightCyan"></colgroup>
@@ -72,12 +69,12 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
 				<td>does he live there?</td>
 				<td>Он не живет сдесь?</td>
 			</tr>
+		</tbody>
+		</table>
 		<p><!--Маркеры Настоящего Простого-->
 		<font size="1" color="red" face="Arial">Markers of Present Simple</font>: usually, often, seldom, sometimes, always, every, etc.
 		<font size="1" color="red" face="Arial">Маркеры Настоящего Простого</font>: обычно, часто, редко, иногда, всегда, каждый и т.д.
 		</p>
-		</tbody>
-		</table>
 <p><!--Словосочетания-->
 I understand you<br>
 I know it very well<br>
