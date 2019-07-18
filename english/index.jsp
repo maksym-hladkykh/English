@@ -14,7 +14,7 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
     <body>
     <h1>My english</h1>
 	Текущая дата: <%= new java.util.Date()%>
-	<br><br><br>
+	<br>
         <h3>Present Simple Настоящее простое</h3>
         <table {border: 1px solid grey;}>
 		<tbody>
@@ -24,8 +24,8 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
             </colgroup>
 			<th colspan="4">Approval утверждение</th>
 			<!--<caption><h5>Approval утверждение</h5></caption>-->
-            <tr><th>I/we/you/they(subject) + Verb</td><td>Я/мы/вы/они + Глагол</td>		<td>He/She/It + V+s</td><td>Он/Она/Оно + Глагол+s</th></tr>
-			<tr><td>I work here</td><td>я здесь работаю</td>							<td>text</td><td>текст</td></tr></tr>
+            <tr><th>I/we/you/they(subject) + Verb</td><td>Я/мы/вы/они + Глагол</td><td>He/She/It + V+s</td><td>Он/Она/Оно + Глагол+s</th></tr>
+			<tr><td>I work here</td><td>я здесь работаю</td><td>text</td><td>текст</td></tr></tr>
 			<tr><td>I understand you</td><td>Я вас понимаю</td></tr>
 			<tr><td>I know it very well</td><td>Я это очень хорошо знаю</td></tr>
 			<tr><td>I live in Ukraine</td><td>Я живу в украине</td></tr>
