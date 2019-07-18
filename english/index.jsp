@@ -74,29 +74,28 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
 			</tr>
 		</tbody>
 		</table>
-		Markers: usually, often, seldom, sometimes, always, every, etc.
-<h5></h5>
-I understand you
-I know it very well
-I live in Ukraine
-I speak English
-I go to work
-a  - перед согласным звуком
-an - перед гласным звуком
-I have a brother
-I have an idea
-I have a car
-I think so
-I remember it very well
-we understand you
-we speack English
-you know it
-they live in this country
-we go to work
-
+		<p><font size="5" color="red" face="Arial">M</font>arkers: usually, often, seldom, sometimes, always, every, etc.</p>
+<p>
+I understand you<br>
+I know it very well<br>
+I live in Ukraine<br>
+I speak English<br>
+I go to work<br>
+a  - перед согласным звуком<br>
+an - перед гласным звуком<br>
+I have a brother<br>
+I have an idea<br>
+I have a car<br>
+I think so<br>
+I remember it very well<br>
+we understand you<br>
+we speack English<br>
+you know it<br>
+they live in this country<br>
+we go to work<br>
+</p>
 
 	</body>
 </html>
-
 
 
