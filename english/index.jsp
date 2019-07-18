@@ -39,7 +39,7 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
 		<table border="1" width="80%">
 		<tbody>
             <colgroup><col style="background:Khaki"><col style="background-color:LightCyan"><col style="background:Khaki"><col style="background-color:LightCyan"></colgroup>
-			<th colspan="4" col style="background-color: #ccc;">Present Simple Настоящее простое/Approval утверждение</th>
+			<th colspan="4" col style="background-color: #ccc;">Present Simple Настоящее простое/Negation отрицание</th>
             <tr>
 				<th>I/we/you/they +do not + V</th>
 				<th>Я/мы/вы/они +do not + Гл</th>
@@ -59,7 +59,7 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
 		<table border="1" width="80%">
 		<tbody>
             <colgroup><col style="background:Khaki"><col style="background-color:LightCyan"><col style="background:Khaki"><col style="background-color:LightCyan"></colgroup>
-			<th colspan="4" col style="background-color: #ccc;">Present Simple Настоящее простое/Approval утверждение</th>
+			<th colspan="4" col style="background-color: #ccc;">Present Simple Настоящее простое/Question form вопросительная форма</th>
             <tr>
 				<th>Do I/we/you/they + V?</th>
 				<th>Do Я/мы/вы/они + Гл?</th>
