@@ -17,13 +17,15 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
 	<br><br><br>
         <h3>Present Simple Настоящее простое</h3>
         <table {border: 1px solid grey;}>
+		<tbody>
             <colgroup>
                 <col style="background:Khaki">
                 <col style="background-color:LightCyan">
             </colgroup>
-			<caption><h5>Approval утверждение</h5></caption>
-            <tr><th>I/we/you/they(subject) + Verb</td><td>Я/мы/вы/они + Глагол</th></tr>
-			<tr><td>I work here</td><td>я здесь работаю</td></tr>
+			<th colspan="3">Approval утверждение</th>
+			<!--<caption><h5>Approval утверждение</h5></caption>-->
+            <tr><th>I/we/you/they(subject) + Verb</td><td>Я/мы/вы/они + Глагол</th></tr><tr><th>He/She/It + V+s</td><td>Он/Она/Оно + Глагол+s</th></tr>
+			<tr><td>I work here</td><td>я здесь работаю</td></tr>						<tr><th>He/She/It + V+s</td><td>Он/Она/Оно + Глагол+s</th></tr>
 			<tr><td>I understand you</td><td>Я вас понимаю</td></tr>
 			<tr><td>I know it very well</td><td>Я это очень хорошо знаю</td></tr>
 			<tr><td>I live in Ukraine</td><td>Я живу в украине</td></tr>
@@ -48,6 +50,7 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
 			<tr><td>text</td><td>текст</td></tr>
 			<tr><td>text</td><td>текст</td></tr>
 			<tr><td>text</td><td>текст</td></tr>
+		</tbody>
 		</table>
 	</body>
 </html>
