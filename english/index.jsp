@@ -21,7 +21,7 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
                 <col style="background:Khaki">
                 <col style="background-color:LightCyan">
             </colgroup>
-			<caption><h3>Approval утверждение</h3></caption>
+			<caption><h5>Approval утверждение</h5></caption>
             <tr><th>I/we/you/they(subject) + Verb</td><td>Я/мы/вы/они + Глагол</th></tr>
 			<tr><td>I work here</td><td>я здесь работаю</td></tr>
 			<tr><td>I understand you</td><td>Я вас понимаю</td></tr>
@@ -29,9 +29,10 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
 			<tr><td>I live in Ukraine</td><td>Я живу в украине</td></tr>
 			<tr><td>I speak English</td><td>Я говорю по-английски</td></tr>
 			<tr><td>I go to work</td><td>я иду на работу</td></tr>
-			<tr><td>----------------------------------</td><td>----------------------------------</td></tr>
+			<tr><td></td><td></td></tr>
 			<tr><td>a  - </td><td>перед согласным звуком</td></tr>
 			<tr><td>an - </td><td>перед гласным звуком</td></tr>
+			<tr><td></td><td></td></tr>
 			<tr><td>I have a brother</td><td>у меня есть брат</td></tr>
 			<tr><td>I have an idea</td><td>у меня есть идея</td></tr>
 			<tr><td>I have a car</td><td>у меня есть идея</td></tr>
