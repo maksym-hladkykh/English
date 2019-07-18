@@ -14,8 +14,8 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
     <body>
     <h1>My english</h1>
 	<%= new java.util.Date()%><!--Текущая дата-->
-	<h1></h1>
-		<!--Present Simple Настоящее простое/Approval утверждение-->
+
+		<h1> </h1><!--Present Simple Настоящее простое/Approval утверждение-->
         <table border="1" width="80%">
 		<tbody>
             <colgroup><col style="background:Khaki"><col style="background-color:LightCyan"><col style="background:Khaki"><col style="background-color:LightCyan"></colgroup>
@@ -35,7 +35,7 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
 		</tbody>
 		</table>
 		
-		<!--Present Simple Настоящее простое/Negation отрицание-->
+		<h1> </h1><!--Present Simple Настоящее простое/Negation отрицание-->
 		<table border="1" width="80%">
 		<tbody>
             <colgroup><col style="background:Khaki"><col style="background-color:LightCyan"><col style="background:Khaki"><col style="background-color:LightCyan"></colgroup>
@@ -55,7 +55,7 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
 		</tbody>
 		</table>
 		
-		<!--Present Simple Настоящее простое/Question form вопросительная форма-->
+		<h1> </h1><!--Present Simple Настоящее простое/Question form вопросительная форма-->
 		<table border="1" width="80%">
 		<tbody>
             <colgroup><col style="background:Khaki"><col style="background-color:LightCyan"><col style="background:Khaki"><col style="background-color:LightCyan"></colgroup>
