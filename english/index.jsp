@@ -33,7 +33,14 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
 				<td>He lives there</td>
 				<td>Он живет сдесь</td>
 			</tr>
-			
+		</tbody>
+		</table>
+	</body>
+</html>
+
+
+
+<!--
 			<tr><td>I understand you</td><td>Я вас понимаю</td></tr>
 			<tr><td>I know it very well</td><td>Я это очень хорошо знаю</td></tr>
 			<tr><td>I live in Ukraine</td><td>Я живу в украине</td></tr>
@@ -58,7 +65,4 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
 			<tr><td>text</td><td>текст</td></tr>
 			<tr><td>text</td><td>текст</td></tr>
 			<tr><td>text</td><td>текст</td></tr>
-		</tbody>
-		</table>
-	</body>
-</html>
+
