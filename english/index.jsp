@@ -22,7 +22,7 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
                 <col style="background:Khaki">
                 <col style="background-color:LightCyan">
             </colgroup>
-			<th colspan="3">Approval утверждение</th>
+			<th colspan="4">Approval утверждение</th>
 			<!--<caption><h5>Approval утверждение</h5></caption>-->
             <tr><th>I/we/you/they(subject) + Verb</td><td>Я/мы/вы/они + Глагол</td>		<td>He/She/It + V+s</td><td>Он/Она/Оно + Глагол+s</th></tr>
 			<tr><td>I work here</td><td>я здесь работаю</td>							<td>text</td><td>текст</td></tr></tr>
