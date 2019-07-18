@@ -14,9 +14,9 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
     <body>
 	<p><font size="5" color="blue" face="Arial">I study English</font></p>
 	<%= new java.util.Date()%><!--Текущая дата-->
-
-		<h1> </h1><!--Present Simple Настоящее простое/Approval утверждение-->
-        <table border="1" width="80%">
+		<h1> 
+		</h1>
+        <table border="1" width="80%"><!--Present Simple Настоящее простое/Approval утверждение-->
 		<tbody>
             <colgroup><col style="background:Khaki"><col style="background-color:LightCyan"><col style="background:Khaki"><col style="background-color:LightCyan"></colgroup>
 			<th colspan="4" col style="background-color: #ccc;">Present Simple Настоящее простое/Approval утверждение</th>
@@ -34,9 +34,9 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
 			</tr>
 		</tbody>
 		</table>
-		
-		<h1> </h1><!--Present Simple Настоящее простое/Negation отрицание-->
-		<table border="1" width="80%">
+		<h1> 
+		</h1>
+		<table border="1" width="80%"><!--Present Simple Настоящее простое/Negation отрицание-->
 		<tbody>
             <colgroup><col style="background:Khaki"><col style="background-color:LightCyan"><col style="background:Khaki"><col style="background-color:LightCyan"></colgroup>
 			<th colspan="4" col style="background-color: #ccc;">Present Simple Настоящее простое/Negation отрицание</th>
@@ -53,10 +53,10 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
 				<td>Он не живет сдесь</td>
 			</tr>
 		</tbody>
-		</table>
-		
-		<h1> </h1><!--Present Simple Настоящее простое/Question form вопросительная форма-->
-		<table border="1" width="80%">
+		</table>	
+		<h1> 
+		</h1>
+		<table border="1" width="80%"><!--Present Simple Настоящее простое/Question form вопросительная форма-->
 		<tbody>
             <colgroup><col style="background:Khaki"><col style="background-color:LightCyan"><col style="background:Khaki"><col style="background-color:LightCyan"></colgroup>
 			<th colspan="4" col style="background-color: #ccc;">Present Simple Настоящее простое/Question form вопросительная форма</th>
@@ -72,10 +72,12 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
 				<td>does he live there?</td>
 				<td>Он не живет сдесь?</td>
 			</tr>
+		<p><!--Маркеры Настоящего Простого-->
+		<font size="1" color="red" face="Arial">Markers of Present Simple</font>: usually, often, seldom, sometimes, always, every, etc.
+		<font size="1" color="red" face="Arial">Маркеры Настоящего Простого</font>: обычно, часто, редко, иногда, всегда, каждый и т.д.
+		</p>
 		</tbody>
 		</table>
-		<p><font size="1" color="red" face="Arial">Markers of Present Simple</font>: usually, often, seldom, sometimes, always, every, etc.</p>
-		<p><font size="1" color="red" face="Arial">Маркеры Настоящего Простого</font>: обычно, часто, редко, иногда, всегда, каждый и т.д.</p>
 <p><!--Словосочетания-->
 I understand you<br>
 I know it very well<br>
