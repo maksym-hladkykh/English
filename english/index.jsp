@@ -16,15 +16,14 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
 	Текущая дата: <%= new java.util.Date()%>
 	<br>
         <h3>Present Simple Настоящее простое</h3>
-        <table border="1" width="90%">
+        <table border="1" width="50%">
 		<tbody>
             <colgroup>
                 <col style="background:Khaki"><col style="background-color:LightCyan"><col style="background:Khaki"><col style="background-color:LightCyan">
             </colgroup>
-			<th colspan="4">Approval утверждение</th>
-			<!--<caption><h5>Approval утверждение</h5></caption>-->
-            <tr><th>I/we/you/they(subject) + Verb</td><td>Я/мы/вы/они + Глагол</td><td>He/She/It + V+s</td><td>Он/Она/Оно + Глагол+s</th></tr>
-			<tr><td>I work here</td><td>я здесь работаю</td><td>text</td><td>текст</td></tr></tr>
+			<th colspan="4" col style="background-color: #ccc;">Approval утверждение</th>
+            <tr><th>I/we/you/they(subject) + Verb</td><td>Я/мы/вы/они + Глагол</td>				<td>He/She/It + V+s</td><td>Он/Она/Оно + Глагол+s</th></tr>
+			<tr><td>I work here</td><td>я здесь работаю</td>									<td>text</td><td>текст</td></tr></tr>
 			<tr><td>I understand you</td><td>Я вас понимаю</td></tr>
 			<tr><td>I know it very well</td><td>Я это очень хорошо знаю</td></tr>
 			<tr><td>I live in Ukraine</td><td>Я живу в украине</td></tr>
