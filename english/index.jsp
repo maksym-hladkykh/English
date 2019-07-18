@@ -35,8 +35,8 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
 				<td>Он живет сдесь</td>
 			</tr>
 		</tbody>
-		<h5>Markers: usually, often, seldom, sometimes, always, every, etc.</h5>
 		</table>
+		<h5>Markers: usually, often, seldom, sometimes, always, every, etc.</h5>
 	</body>
 </html>
 
