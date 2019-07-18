@@ -12,7 +12,7 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
         <title>MaxNix</title>
     </head>
     <body>
-    <h1>My english</h1>
+	<h1>My english</h1>
 	<%= new java.util.Date()%><!--Текущая дата-->
 
 		<h1> </h1><!--Present Simple Настоящее простое/Approval утверждение-->
@@ -75,7 +75,7 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
 		</tbody>
 		</table>
 		<p><font size="5" color="red" face="Arial">M</font>arkers: usually, often, seldom, sometimes, always, every, etc.</p>
-<p>
+<p><!--Словосочетания-->
 I understand you<br>
 I know it very well<br>
 I live in Ukraine<br>
@@ -93,9 +93,86 @@ we speack English<br>
 you know it<br>
 they live in this country<br>
 we go to work<br>
+he also works here-он тоже работает сдесь<br>
+she feels happy<br>
+she remembers it - она помнит это<br>
+it helps me<br>
+she lives in that place<br>
+it really helps me<br>
+it looks intresting - это выглядит интересно<br>
+it seems intresting - это кажется интересным<br>
+He reads in English - он читает на английском<br>
+He reads English - он читает английский<br>
+She reads English books - она читает английские книги (а - артикль ставиться перед существительными в единственном числе!!!)<br>
+She reads English a book<br>
+He knows it<br>
+She sees <font color="red">this</font> mistake - Она видит эту ошибку (а - артикль перед mistake не ставим потому что this,that<br>
+He sees <font color="red">that</font> mistake - Он видит ту ошибку<br>
+It happens - это случается<br>
+He wants more - он хочет большего<br>
+She wants more practice - она хочет больше практики<br>
+It really happens - это действительно случается/происходит<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 </p>
 
 	</body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
