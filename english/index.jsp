@@ -20,10 +20,9 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
             <colgroup>
                 <col style="background:Khaki"><col style="background-color:LightCyan"><col style="background:Khaki"><col style="background-color:LightCyan">
             </colgroup>
-			<th colspan="4" col style="background-color: #ccc;">Present Simple Настоящее простое</th>
-			<th colspan="4" col style="background-color: #ccc;">Approval утверждение</th>
-            <tr><td>I/we/you/they(subject) + Verb</td><td>Я/мы/вы/они + Глагол</td>				<td>He/She/It + V+s</td><td>Он/Она/Оно + Глагол+s</th></tr>
-			<tr><td>I work here</td><td>я здесь работаю</td>									<td>text</td><td>текст</td></tr></tr>
+			<th colspan="2" col style="background-color: #ccc;">Present Simple Настоящее простое</th>	<th colspan="2" col style="background-color: #ccc;">Approval утверждение</th>
+            <tr><td>I/we/you/they(subject) + Verb</td><td>Я/мы/вы/они + Глагол</td>						<td>He/She/It + V+s</td><td>Он/Она/Оно + Глагол+s</th></tr>
+			<tr><td>I work here</td><td>я здесь работаю</td>											<td>text</td><td>текст</td></tr></tr>
 			<tr><td>I understand you</td><td>Я вас понимаю</td></tr>
 			<tr><td>I know it very well</td><td>Я это очень хорошо знаю</td></tr>
 			<tr><td>I live in Ukraine</td><td>Я живу в украине</td></tr>
