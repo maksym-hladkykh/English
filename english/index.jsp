@@ -21,6 +21,8 @@ request.setAttribute("tomcatExamplesUrl", "/examples/");
             <colgroup>
                 <col style="background:Khaki">
                 <col style="background-color:LightCyan">
+				<col style="background:Khaki">
+                <col style="background-color:LightCyan">
             </colgroup>
 			<th colspan="4">Approval утверждение</th>
 			<!--<caption><h5>Approval утверждение</h5></caption>-->
