@@ -119,7 +119,7 @@ He often plays "хии офэн плэйз" - он часто играет<br>
 He often drinks "хии офэн дринкс" - он часто пьет<br>
 He does it every day, She goes to school<br>
 I often write jsp code<br>
-<br>
+kum<br>
 <br>
 <br>
 <br>
